@@ -29,7 +29,7 @@ _Add your instance to the official list of Lookup Ninja instances._
 
 **Whether your instance has SSL** can be checked at [ssltools.com](https://ssltools.com).
 
-## Formatting your submission
+## Submitting
 Submissions are submitted as PHP arrays, an example would be:
 ```
 $instances = array(
@@ -51,3 +51,5 @@ array('example.org', '9.2', 'FR', 'LUNJ123', FALSE, TRUE, FALSE),
 SSL, IPv4, IPv6 should be set as `TRUE` or `FALSE` based on whether your instance has them. Don't surround `TRUE`/`FALSE` with `'` `'` or `"` `"`.
 
 **!! Make sure you have a `,` after the closing bracket**
+
+_You don't need the line begining with // in your final submission._
