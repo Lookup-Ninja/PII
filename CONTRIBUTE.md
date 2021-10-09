@@ -52,4 +52,4 @@ SSL, IPv4, IPv6 should be set as `TRUE` or `FALSE` based on whether your instanc
 
 **!! Make sure you have a `,` after the closing bracket**
 
-_You don't need the line begining with // in your final submission._
+_You don't need the line beginning with // in your final submission._
